@@ -2503,7 +2503,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
   🔓 - Government surplus auctions in the US, UK, CA and AU, with sold-price comps and resale scores.
 - [GovContractScout](https://scout.govbidportals.com) `https://scout.govbidportals.com/mcp`
-  [![GovContractScout MCP connector](https://glama.ai/mcp/connectors/io.github.govcontractscout/govcontractscout-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.govcontractscout/govcontractscout-mcp)
+  [![GovContractScout MCP connector](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout/badges/score.svg)](https://glama.ai/mcp/connectors/com.govbidportals.scout/gov-contract-scout)
   🔐 - Search US state & local government contracts, NAICS codes, and AI match scoring via OAuth 2.1.
 - [High Signal](https://highsignal.app) `https://mcp.highsignal.app/high-signal/mcp`
   [![High Signal MCP connector](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal/badges/score.svg)](https://glama.ai/mcp/connectors/app.highsignal.mcp/high-signal)
